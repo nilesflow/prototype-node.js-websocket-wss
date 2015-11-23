@@ -1,0 +1,12 @@
+{
+	"source": {
+		"include": ["."],
+    "includePattern": ".+\\.js(doc)?$",
+    "excludePattern": "node_modules"
+  },
+  "opts": {
+  	"encoding": "utf8",               // same as -e utf8
+    "destination": "/var/www/html/jsdoc3/nginx/ws/",  
+    "recurse": true
+  }
+}

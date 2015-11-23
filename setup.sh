@@ -1,0 +1,1 @@
+cp config-default.js config.js

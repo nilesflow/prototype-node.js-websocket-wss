@@ -1,0 +1,26 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jsdoc": "^3.4.0",
+    "ws": "^0.8.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilesflow/prototype-node.js-websocket-wss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilesflow/prototype-node.js-websocket-wss/issues"
+  },
+  "homepage": "https://github.com/nilesflow/prototype-node.js-websocket-wss#readme"
+}
